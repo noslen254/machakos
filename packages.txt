@@ -1,0 +1,39 @@
+
+PHP Mailer
+https://github.com/PHPMailer/PHPMailer
+
+Lavacharts
+http://lavacharts.com/#install
+
+PDF
+https://github.com/barryvdh/laravel-dompdf
+
+Excel
+https://docs.laravel-excel.com/3.1/getting-started/installation.html
+
+Google analytics
+https://github.com/spatie/laravel-analytics
+
+Sweet Alert
+https://github.com/realrashid/sweet-alert
+
+Africas Talking
+https://github.com/AfricasTalkingLtd/africastalking-php
+
+Infobip
+https://github.com/pnlinh/laravel-infobip-sms
+
+File Manager
+https://unisharp.github.io/laravel-filemanager/
+
+
+
+
+
+
+
+
+
+
+
+
