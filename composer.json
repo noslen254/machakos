@@ -22,7 +22,7 @@
         "pnlinh/laravel-infobip-sms": "^1.0",
         "realrashid/sweet-alert": "^3.0",
         "spatie/laravel-analytics": "^3.7",
-        "unisharp/laravel-filemanager": "~1.8"
+        "unisharp/laravel-filemanager": "~2.6"
     },
     "require-dev": {
         "beyondcode/laravel-dump-server": "^1.0",
